@@ -1,7 +1,7 @@
 ✨  
 ```diff
 @@ Hi, I'm Pradnya🌷͙֒  @@
-Computer Engineer | Python + Go Developer ⭐
+> Computer Engineer | Python + Go Developer ⭐
 I write code that occasionally works on the first try. (┬┬﹏┬┬) 
 ```
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
